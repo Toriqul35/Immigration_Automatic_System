@@ -1,0 +1,65 @@
+.a2{
+    font-size: 25px;
+    color: black;
+    font-family: bold;
+    font-style: italic;
+    
+  }
+  
+  .a3{
+    color:red;
+  }
+  .a4{
+    width: 250px;
+    height: 70px;
+    margin-top: -80px;
+    margin-left: 1045px
+  }
+  
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color:rgb(94, 95, 94);
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+      font-size: 17px;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    border-right: 1px solid #bbb;
+  }
+  li:last-child {
+    border-right: none;
+  }
+  
+  li a:hover {
+    background-color: #111;
+  }
+  .active {
+    background-color: #4CAF50;
+  }
+  .down{
+    
+    margin-top: 440px;
+  
+    padding: 10px;
+    color: red;
+    width: 50px;
+    
+  }
+  .logo{
+  margin-left: 555px;
+  width: 180px;
+  height: 80px;
+  margin-top: -55px;
+  }
+  
